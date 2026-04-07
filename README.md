@@ -1,1 +1,1 @@
-These are the plotting data of the paper https://arxiv.org/abs/2601.22015
+These are the data used to generate the plots in the paper https://arxiv.org/abs/2601.22015
